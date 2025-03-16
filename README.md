@@ -10,10 +10,10 @@ Drag and Drop the server.dat file into your minecraft instance to make the serve
 > [!NOTE]
 > Requires Forge 36.2.34, Minecraft 1.16.5
 
-## Download
+## Downloads
 
 [Curseforge modpack](https://github.com/thedayal/minecraft-server-jars/raw/refs/heads/main/curseforge_pack.zip)
 
-[Modpack for manual install](https://github.com/thedayal/minecraft-server-jars/raw/refs/heads/main/servers.dat)
-
 [Server.dat](https://github.com/thedayal/minecraft-server-jars/raw/refs/heads/main/servers.dat)
+
+[Modpack for manual install](https://github.com/thedayal/minecraft-server-jars/raw/refs/heads/main/servers.dat)
