@@ -1,7 +1,6 @@
-#About
 Repo for storing modpacks
 
-## Installation
+# Installation
 Use the curseforge version of the modpack to automatically install the mods if using curseforge, otherwise download the manual version and extract the contents into your mods folder.
 Drag and Drop the server.dat file into your minecraft instance.
 
